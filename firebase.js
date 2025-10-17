@@ -1,0 +1,1 @@
+// Firebase authentication is no longer used. All authentication is handled by Supabase.
